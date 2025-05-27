@@ -16,7 +16,7 @@ const images = [
 ];
 
 export default function Home() {
-  const [count, setCount] = useState(106);
+  const [count, setCount] = useState(0);
   const [rounds, setRounds] = useState(0);
   const [timer, setTimer] = useState(0);
   const [isTimerRunning, setIsTimerRunning] = useState(false);
