@@ -1,36 +1,85 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🕉️ Hare Kṛṣṇa🙇🏻‍♂️ - Digital Japa Meditation Counter
 
-## Getting Started
+A beautiful, modern web application for counting Japa meditation rounds using a digital mala. Built with Next.js and Tailwind CSS, this app provides a serene and intuitive interface for your spiritual practice.
 
-First, run the development server:
+![Mala App Screenshot](public/images/radha-krishna-1.JPG)
 
+## ✨ Features
+
+- **Digital Mala Counter**: Count up to 108 beads with a beautiful circular progress indicator
+- **Round Tracking**: Automatically tracks completed rounds of 108 beads
+- **Timer**: Built-in meditation timer to track your practice duration
+- **Beautiful UI**: Serene design with a gradient background and smooth animations
+- **Image Gallery**: Rotating collection of Radha Krishna images for visual meditation
+- **Sound Effects**: Optional bead click sound for enhanced meditation experience
+- **Responsive Design**: Works seamlessly on both desktop and mobile devices
+- **Settings Panel**: Customize your meditation experience with easy-to-access settings
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 18.0 or later
+- pnpm (recommended) or npm
+
+### Installation
+
+1. Clone the repository:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/yourusername/mala-app.git
+cd mala-app
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies:
+```bash
+pnpm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Run the development server:
+```bash
+pnpm dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## Learn More
+## 🛠️ Built With
 
-To learn more about Next.js, take a look at the following resources:
+- [Next.js](https://nextjs.org/) - React framework for production
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [TypeScript](https://www.typescriptlang.org/) - Type-safe JavaScript
+- [React](https://reactjs.org/) - UI library
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📱 Usage
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Click the "Chant" button to count each bead
+2. The app automatically tracks rounds when you complete 108 beads
+3. Use the reset button to start a new session
+4. Access settings through the gear icon to customize your experience
+5. Enable sound effects for an enhanced meditation experience
 
-## Deploy on Vercel
+## 🎨 Customization
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The app uses a warm, spiritual color scheme that can be customized by modifying the Tailwind configuration. The current theme features:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Warm gradient background
+- Orange and brown accent colors
+- Clean, minimal interface
+- Smooth transitions and animations
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🙏 Acknowledgments
+
+- Inspired by traditional Japa meditation practices
+- Images of Radha Krishna for spiritual inspiration
+- Built with love for the spiritual community
+
+---
+
+Made with ❤️ for spiritual seekers everywhere
