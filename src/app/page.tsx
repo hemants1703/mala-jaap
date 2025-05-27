@@ -24,7 +24,7 @@ export default function Home() {
   const [soundEnabled, setSoundEnabled] = useState(false);
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
-  let beadSound = useRef<HTMLAudioElement>(null);
+  const beadSound = useRef<HTMLAudioElement>(null);
 
   useEffect(() => {
     let interval: NodeJS.Timeout;
