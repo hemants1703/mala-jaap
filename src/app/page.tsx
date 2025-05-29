@@ -13,6 +13,20 @@ const images = [
   '/images/radha-krishna-8.JPG',
   '/images/radha-krishna-9.JPG',
   '/images/radha-krishna-10.JPG',
+  '/images/radha-krishna-11.JPG',
+  '/images/radha-krishna-12.JPG',
+  '/images/radha-krishna-13.JPG',
+  '/images/radha-krishna-14.JPG',
+  '/images/radha-krishna-15.JPG',
+  '/images/radha-krishna-16.JPG',
+  '/images/radha-krishna-17.JPG',
+  '/images/radha-krishna-18.JPG',
+  '/images/radha-krishna-19.JPG',
+  '/images/radha-krishna-20.JPG',
+  '/images/radha-krishna-21.JPG',
+  '/images/radha-krishna-22.JPG',
+  '/images/radha-krishna-23.JPG',
+  '/images/radha-krishna-24.JPG',
 ];
 
 export default function Home() {
