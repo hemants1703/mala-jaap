@@ -116,7 +116,7 @@ export default function Home() {
         </div>
 
         <div className="flex-1 flex items-center justify-center">
-          <div className="relative h-64 w-full rounded-2xl overflow-hidden shadow-2xl border-4 border-[#fdba74]">
+          <div className="relative h-full w-full rounded-2xl overflow-hidden shadow-2xl border-4 border-[#fdba74]">
             <Image
               src={images[currentImageIndex]}
               alt="Radha Krishna"
