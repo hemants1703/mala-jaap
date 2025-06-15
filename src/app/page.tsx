@@ -27,6 +27,9 @@ const images = [
   '/images/radha-krishna-22.JPG',
   '/images/radha-krishna-23.JPG',
   '/images/radha-krishna-24.JPG',
+  '/images/radha-krishna-25.JPG',
+  '/images/radha-krishna-26.JPG',
+  '/images/radha-krishna-27.JPG',
 ];
 
 export default function Home() {
